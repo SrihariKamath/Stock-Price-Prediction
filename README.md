@@ -47,7 +47,7 @@ The LSTM model demonstrates the ability to capture patterns and trends in histor
 ### Contributors
 
 - [Srihari Kamath](https://github.com/SrihariKamath))
-- [Shikha Punjabi]
+- Shikha Punjabi
 
 
 Contributions to the project are welcome. Please feel free to submit bug fixes, feature enhancements, or suggestions for improvement.
